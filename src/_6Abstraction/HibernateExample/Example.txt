@@ -1,0 +1,14 @@
+SpringBoot APP
+
+- JPA (Interface) -> Java
+- SpringDataJPA extends JPA  -> Spring's Interface
+   -> findByName(String name); -> Hibernate generates
+   -> findByNameOrderByEntryDate(String name);
+
+- Implementor is Hibernate (ORM) -> Object Relation Mapping
+
+- DB
+ Structured DB
+ - MYSQL -> select * from user where name = 'kartikeya' and limit = 10;
+ - Oracle SQL -> select * from user where name = 'kartikeya' and rowNum >= 10;
+ - Microsoft SQL
