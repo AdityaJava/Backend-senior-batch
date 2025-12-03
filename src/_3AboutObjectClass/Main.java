@@ -5,7 +5,7 @@ import _4Inheritance.Parent;
 // Every class has Object class as parent class
 // class Person extends Object {}
 //PIE-A
-class Person {
+class Person extends Object{
     int age;
     int weight;
 

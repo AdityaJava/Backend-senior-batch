@@ -1,0 +1,21 @@
+Interfaces
+1. List
+2. Set
+3. Map
+
+
+Classes
+
+1. List
+ - ArrayList
+ - LinkedList
+ - CopyOnWriteArrayList (This comes from Java.concurrent package )
+
+2. Set
+ - HashSet
+ - LinkedHashSet
+ - TreeSet
+
+3. Map
+ - HashMap
+ - LinkedHashMap
